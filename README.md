@@ -6,7 +6,7 @@
   
  ## Features
  This broker currently supports the followings:
- (currently only support single documemt)
+ (currently only supporting single documemt input)
  
  ### Setiment Analysis
  - Get Sentiment: returns a single record of the overall sentiment scores.
