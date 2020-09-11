@@ -1,6 +1,8 @@
 # JSSP-AzureTextAnalytics
  ## JSSP Broker for AzureTextAnalytics
- Sample K2 JSSP Broker connecting K2 to Azure Text Analytics service based on **Text Analytics API Version 3** (text/analytics/v3.0/sentiment). This is only a sample broker and is not supported by the product. Use at your own risk, Happy Coding.
+ Sample K2 JSSP Broker connecting K2 to Azure Text Analytics service based on **Text Analytics API Version 3** (text/analytics/v3.0/sentiment). This is only a sample broker and is not supported by the product team. You can deploy as is to any K2 Nexus Platform or download the source to enhance or modify for you own use case.
+ 
+ ***Use this code at your own risk, Happy Coding.***
   
  ## Features
  This broker currently supports the followings:
