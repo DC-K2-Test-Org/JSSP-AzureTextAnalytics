@@ -1,9 +1,9 @@
 # JSSP-AzureTextAnalytics
  ## JSSP Broker for AzureTextAnalytics
- Sample K2 JSSP Broker connecting K2 to Azure Text Analytics service based on Text Analytics API Version 3 (text/analytics/v3.0/sentiment). This is only a sample broker and is not supported by the product. Use at your own risk, Happy Coding.
+ Sample K2 JSSP Broker connecting K2 to Azure Text Analytics service based on **Text Analytics API Version 3** (text/analytics/v3.0/sentiment). This is only a sample broker and is not supported by the product. Use at your own risk, Happy Coding.
   
  ## Features
- This broker currently supports the following:
+ This broker currently supports the followings:
  (currently only support single documemt)
  
  ### Setiment Analysis
@@ -30,4 +30,4 @@ Additional Information:  [API Reference](https://https://westus2.dev.cognitive.m
 
 ## What is required to create a K2 Service Instance:
 1. Azure Service Endpoint (e.g. https://eastus.api.cognitive.microsoft.com)
-2. Service API Key from Azure
+2. Azure Service API Key
